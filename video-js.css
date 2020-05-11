@@ -1132,8 +1132,6 @@ body.vjs-full-window {
   bottom: 0;
   left: 0;
   height: 100%;
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
 }
 
 .vjs-has-started .vjs-poster {
